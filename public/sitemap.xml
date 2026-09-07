@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/explore</loc></url>
+  <url><loc>/saved</loc></url>
+  <url><loc>/category/companies</loc></url>
+  <url><loc>/category/brands</loc></url>
+  <url><loc>/category/tools</loc></url>
+  <url><loc>/category/places</loc></url>
+  <url><loc>/category/topics</loc></url>
+  <url><loc>/category/resources</loc></url>
+  <url><loc>/entity/openai</loc></url>
+  <url><loc>/entity/mistral</loc></url>
+  <url><loc>/entity/stripe</loc></url>
+  <url><loc>/entity/apple</loc></url>
+  <url><loc>/entity/patagonia</loc></url>
+  <url><loc>/entity/figma</loc></url>
+  <url><loc>/entity/notion</loc></url>
+  <url><loc>/entity/paris</loc></url>
+  <url><loc>/entity/lisbon</loc></url>
+  <url><loc>/entity/astronomy</loc></url>
+  <url><loc>/entity/urbanism</loc></url>
+  <url><loc>/entity/mdn</loc></url>
+</urlset>
