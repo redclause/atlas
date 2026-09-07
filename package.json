@@ -1,12 +1,13 @@
 {
   "name": "discover-pet",
   "private": true,
-  "version": "0.3.2",
+  "version": "0.4.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 3000",
     "build": "vite build",
-    "preview": "vite preview --host 127.0.0.1 --port 4173"
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "media:manifest": "node scripts/generate-media-manifest.mjs"
   },
   "dependencies": {
     "lucide-react": "0.468.0",
