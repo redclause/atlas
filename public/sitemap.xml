@@ -2,23 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>/</loc></url>
   <url><loc>/explore</loc></url>
+  <url><loc>/countries</loc></url>
   <url><loc>/saved</loc></url>
-  <url><loc>/category/companies</loc></url>
-  <url><loc>/category/brands</loc></url>
-  <url><loc>/category/tools</loc></url>
-  <url><loc>/category/places</loc></url>
-  <url><loc>/category/topics</loc></url>
-  <url><loc>/category/resources</loc></url>
-  <url><loc>/entity/openai</loc></url>
-  <url><loc>/entity/mistral</loc></url>
-  <url><loc>/entity/stripe</loc></url>
-  <url><loc>/entity/apple</loc></url>
-  <url><loc>/entity/patagonia</loc></url>
-  <url><loc>/entity/figma</loc></url>
-  <url><loc>/entity/notion</loc></url>
-  <url><loc>/entity/paris</loc></url>
-  <url><loc>/entity/lisbon</loc></url>
-  <url><loc>/entity/astronomy</loc></url>
-  <url><loc>/entity/urbanism</loc></url>
-  <url><loc>/entity/mdn</loc></url>
+  <url><loc>/category/dogs</loc></url>
+  <url><loc>/category/cats</loc></url>
+  <url><loc>/category/birds</loc></url>
+  <url><loc>/category/small-animals</loc></url>
+  <url><loc>/category/fish-aquatic</loc></url>
+  <url><loc>/category/reptiles</loc></url>
+  <url><loc>/country/france</loc></url>
+  <url><loc>/country/united-kingdom</loc></url>
+  <url><loc>/country/germany</loc></url>
+  <url><loc>/country/australia</loc></url>
+  <url><loc>/country/united-states</loc></url>
+  <url><loc>/pet/french-bulldog</loc></url>
+  <url><loc>/pet/poodle</loc></url>
+  <url><loc>/pet/bichon-frise</loc></url>
+  <url><loc>/pet/maltese</loc></url>
+  <url><loc>/pet/german-shepherd</loc></url>
+  <url><loc>/pet/rottweiler</loc></url>
+  <url><loc>/pet/cavalier-king-charles-spaniel</loc></url>
+  <url><loc>/pet/corgi</loc></url>
+  <url><loc>/pet/maine-coon</loc></url>
+  <url><loc>/pet/budgerigar</loc></url>
+  <url><loc>/pet/swallow</loc></url>
 </urlset>
